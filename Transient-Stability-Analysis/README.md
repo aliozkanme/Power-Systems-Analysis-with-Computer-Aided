@@ -1,5 +1,5 @@
 > 🇹🇷 **[Türkçe Versiyon İçin Tıklayınız / Click for Turkish Version](README_TR.md)**
- 
+
 ---
 # Analysis of Transient Stability in Multi Machine Power Systems Using Equal Area Criterion and Time Domain Simulations: Case Study of a Three Generator System 
 
