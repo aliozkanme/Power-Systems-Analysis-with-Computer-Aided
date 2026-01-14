@@ -1,0 +1,66 @@
+# --- Operating Systems (İşletim Sistemi Dosyaları) ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- Python ---
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments (Sanal Ortamlar)
+venv/
+env/
+.env
+.venv/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# --- MATLAB & Simulink ---
+# Autosave files (Otomatik kayıt dosyaları)
+*.asv
+*.autosave
+*.bak
+
+# Compilation artifacts (Derleme artıkları)
+*.mex*
+*.oct
+
+# Simulink Code Generation / Cache (Simulink önbellek ve proje dosyaları)
+slprj/
+sfprj/
+*.slxc
+*.sldi
+*.sldd
+
+# MATLAB Project exclusion
+.SimulinkProject/
+_SimulinkProject/
+
+# Large Data Files (İsteğe bağlı - büyük veri setlerini yüklememek için)
+# *.mat  <-- Eğer .mat dosyalarınız veriseti ise ve çok büyükse bunu açın.
+
+# --- PSIM (Powersim) & Simulation Tools ---
+# Simulation results and waveforms (Simülasyon sonuçları ve dalga formları)
+*.smv
+*.fra
+*.txt
+*.csv
+*.log
+
+# Backup files
+*.sch~
+*.psi~
+
+# --- IDE & Editors (Geliştirme Ortamı Ayarları) ---
+.vscode/
+.idea/
+*.swp
