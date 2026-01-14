@@ -3,7 +3,7 @@
 ---
 # Eşit Alan Kriteri ve Zaman Bölgesi Simülasyonları Kullanılarak Çok Makineli Güç Sistemlerinde Geçici Hal Kararlılığının Analizi: Üç Jeneratörlü Bir Sistem Vaka Çalışması
 
-<img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" height="20"/> <img src="https://img.shields.io/badge/license-Apache%202.0-blue" alt="license"/> [![ResearchGate](https://img.shields.io/badge/ResearchGate-Read%20Paper-green?logo=researchgate)](YOUR_RESEARCHGATE_LINK_HERE) <img src="https://img.shields.io/github/last-commit/aliozkanme/SolidWorks-Portfolio" alt="last commit"/> 
+<img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" height="20"/> <img src="https://img.shields.io/badge/license-Apache%202.0-blue" alt="license"/> [![ResearchGate](https://img.shields.io/badge/ResearchGate-Read%20Paper-green?logo=researchgate)](https://www.researchgate.net/publication/399759430_Analysis_of_Transient_Stability_in_Multi_Machine_Power_Systems_Using_Equal_Area_Criterion_and_Time_Domain_Simulations_Case_Study_of_a_Three_Generator_System?_sg%5B0%5D=KtPtKUvNB7fa_BL7hwQ_DeT8I_oPCzbV-UTvH_ik7YzlJSmftrIHEHpsJs0aF1T-iR33bo--uHLf8oykMa7ShstRivG6joBhIbvWktqn.09lUoo70uXKn0KWgRjmJuanRLXwWzGkxijSmh-QxCN17T5BZ8Q2BVwkQeSTm0EDlgl2YRVKP48Il2iqj_RnbkA&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19) <img src="https://img.shields.io/github/last-commit/aliozkanme/SolidWorks-Portfolio" alt="last commit"/> 
 
 ---
 
