@@ -23,6 +23,9 @@ A collection of computational projects and simulations focused on power system d
 <div id="list-start"></div>
 
 [](Generator_G3_Time_Domain_Simulation.m)
+```matlab
+> **ERROR:** File 'Generator_G3_Time_Domain_Simulation.m' not found.
+```
 
 <div id="list-end"></div>
 
