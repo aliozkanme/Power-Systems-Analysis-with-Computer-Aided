@@ -3,10 +3,10 @@ import re
 
 # --- CONFIGURATION ---
 # The target Markdown file to update in-place.
-TARGET_FILE = "Transient_Stability_Analysis/README.md"
+TARGET_FILE = "Transient-Stability-Analysis/README.md"
 
 # Directory where source code files are stored.
-SOURCE_DIR = "Transient_Stability_Analysis/src"
+SOURCE_DIR = "Transient-Stability-Analysis/src"
 
 # Map file extensions to Markdown syntax highlighting tags.
 EXT_MAP = {
