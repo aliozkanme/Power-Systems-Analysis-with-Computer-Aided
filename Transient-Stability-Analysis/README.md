@@ -99,7 +99,7 @@ To ensure the reliability of the stability analysis, the time-domain simulations
 
 #### MATLAB Code
 
-[](src/Generator_G3_Time_Domain_Simulation.m)
+[ ](Generator_G3_Time_Domain_Simulation.m)
 
 #### Python Code
 
