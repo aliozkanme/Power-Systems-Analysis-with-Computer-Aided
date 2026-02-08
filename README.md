@@ -7,7 +7,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey?style=flat-square&logo=creative-commons" alt="Creative Commons">
-  
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Topic-Power_Systems-darkgreen?style=flat-square" alt="Power Systems">
+  <img src="https://img.shields.io/badge/Focus-Dynamics_&_Control-b51800?style=flat-square" alt="Dynamics & Control">
   <img src="https://img.shields.io/github/last-commit/aliozkanme/Power-Systems-Analysis-with-Computer-Aided" alt="last commit"/>
 </p>
 
